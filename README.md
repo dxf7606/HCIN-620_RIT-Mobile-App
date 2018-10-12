@@ -120,7 +120,7 @@ The team interviewed 8 users (2 participants each): 1 online student, 2 potentia
 https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Milestone%202%20-%20HCIN%20620.jpg
 
 ***
-# [M3: Personas, pg 130](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/wiki/Milestone-3)
+# M3: Personas, pg 130
 
 ***
 ## Primary Persona
@@ -138,7 +138,7 @@ https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Milestone%202%20-
 ![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Amy%20Lange.png)
 
 ## Anti-persona
-As a group, we found that trying to form a specific anti-persona notion was not as conducive; our users all share a specific interest, RIT. The only specific behavior that is antithetical to that shared trait would be a student, potential student, or parent of a student who is not attending or interested in attending RIT; all of these personas have many of the same interests and behaviors as our personas, simply without a focus on RIT. Another potential anti-persona could have been someone who is generally uninterested in colleges, but that is such a broad and nebulous feature that it was difficult to distill any additional behaviors.
+As a group, we found that trying to form a specific anti-persona notion was not very conducive for our redesign; our users all share a specific interest, RIT. The only specific behavior that is antithetical to that shared trait would be a student, potential student, or parent of a student who is not attending or interested in attending RIT; all of these personas have many of the same interests and behaviors as our personas, simply without a focus on RIT. Another potential anti-persona could have been someone who is generally uninterested in colleges, but that is such a broad and nebulous feature that it was difficult to distill any additional behaviors.
 ***
 
 ## [Dashboards](https://docs.google.com/presentation/d/18LwrbVyk7rV3SDCN7sI7H4kotkOBtqSxUySVKPe72rY/edit?usp=sharing)
