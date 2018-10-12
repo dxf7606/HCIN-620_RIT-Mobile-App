@@ -119,3 +119,47 @@ The team interviewed 8 users (2 participants each): 1 online student, 2 potentia
 **
 https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Milestone%202%20-%20HCIN%20620.jpg
 
+***
+# [M3: Personas, pg 130](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/wiki/Milestone-3)
+
+***
+## Primary Persona
+[Chad Techman](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Chad%20Techman.png)
+![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Chad%20Techman.png)
+
+## Secondary Personas
+1. [Nala Gritty](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Nala%20Gritty.png)
+![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Nala%20Gritty.png)
+
+2. [Derek Longsteen](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Derek%20Longsteen.png)
+![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Derek%20Longsteen.png)
+
+3. [Amy Lange](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Amy%20Lange.png)
+![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Amy%20Lange.png)
+
+## Anti-persona
+As a group, we found that trying to form a specific anti-persona notion was not as conducive; our users all share a specific interest, RIT. The only specific behavior that is antithetical to that shared trait would be a student, potential student, or parent of a student who is not attending or interested in attending RIT; all of these personas have many of the same interests and behaviors as our personas, simply without a focus on RIT. Another potential anti-persona could have been someone who is generally uninterested in colleges, but that is such a broad and nebulous feature that it was difficult to distill any additional behaviors.
+***
+
+## [Dashboards](https://docs.google.com/presentation/d/18LwrbVyk7rV3SDCN7sI7H4kotkOBtqSxUySVKPe72rY/edit?usp=sharing)
+
+Legend of Users:
+1. Chad Techman
+2. Nala Gritty
+3. Derek Longsteen
+4. Amy Lange
+
+### [What They (The Personas) Use Their Phone For](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Phone_Use.png)
+![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Phone_Use.png)
+
+### [(Persona) Perception Of Available Relevant Information](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Perception_Relevant_Info.png)
+![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Perception_Relevant_Info.png)
+
+### [(Expectations Of) External Consistency With Other Apps](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Expecations_Consistency.png)
+![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Expecations_Consistency.png)
+
+### [(Persona) Familiarity With Other Applications](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Application_Familiarity.png)
+![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Application_Familiarity.png)
+
+### [(Persona) Knowledge Of RIT And (The RIT) Website](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/RIT_Knowledge.png)
+![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/RIT_Knowledge.png)
