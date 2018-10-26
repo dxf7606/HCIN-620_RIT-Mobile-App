@@ -163,6 +163,8 @@ Legend of Users:
 ### [(Persona) Knowledge Of RIT And (The RIT) Website](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/RIT_Knowledge.png)
 ![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/RIT_Knowledge.png)
 
+***
+
 # [M4: Lo-Fi Prototype, pg 131](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/wiki/Milestone-4)
 
 ## Approach:
@@ -287,7 +289,7 @@ This page displays athletic information through a series of horizontal scrolling
 
 ### [Events](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Events.jpg)
 This page displays RIT events, organized by ones occurring that day, bookmarked events, and the results of a search (our next iteration will move the search to the top of the page and apply given filtering to the rest of the page's event selections). It will not link to internal pages.
-[Events](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Events.jpg)
+![Events](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Events.jpg)
 
 ### [Photo Albums](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Photo_Albums.jpg)
 This page displays photos relating to RIT. It is comprised of series of category tabs the user can scroll through, a series of dropdown, horizontal scrolls for the photos belonging to the selected category, and terminating with a full album scroll. It will not link to internal pages.
@@ -299,128 +301,4 @@ This page allows the user to select, via 3 tabs at the top, which of RIT's socia
 
 ### [Tickets](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Tickets.jpg)
 This page allows the user to search for tickets by category and date range. The results will be displayed below, and underneath that there will be upcoming events separated into categories, and a calendar to view events. It will not link to internal pages.
-![Tickets](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Tickets.jpg)The main page of the RIT Mobile app does not implement principles of proximity or similarity and overall has little order or intuitive distinction between the page links leading to the rest of the app. Unrelated pages, like “Visit Evaluations” and “Campus Maps,” are adjacent to each other, while complementary page links, like “Reporter” and “News” are not directly next to each other. Some of the links are named ambiguously; for example, a user wouldn’t necessarily be able to discern what the “Apps Showcase” link is for. There is no ability to customize the order of the apps, but there is an option to add links to the “My Favorites” at the top of the screen. However, two of the team members unintentionally added links to their favorites, not even realizing the process they executed to do so. 
-The “Messages” section does not provide an option for users to send messages or alert users to incoming notifications. The application allows for two personas -- RIT and Guest -- but the RIT persona does not require an RIT username or password to log in. It is confusing as to what each persona should or should not have access to. The RIT Mobile app has areas of redundancy, such as a drop down menu on the main page that re-lists all the same feature links on the home page in a vertical fashion, along with another “Links” at the bottom. The “Links” is essentially the same information from the home page, but displays the link URLs rather than the icons. The team plans to address ambiguity and redundancies discovered in our initial investigation of the RIT Mobile application. 
-
-## General Solution:
-Through contextual inquiry, our goal is to garner insight to our participants’ understanding of the RIT Mobile application interface. Our project falls under focused rapid contextual design, so we plan to conduct contextual interviews with 8-12 users, including on campus students, online students, and visiting family or friends, if possible. After consolidating the data via an interpretation session, the team plans to use Realtimeboard or Boardthing to generate our affinity diagrams. Through the affinity diagrams, the team will develop personas, which will inform our lo-fi prototype work-ups. Once the team undergoes a number of iterations of the  paper mockups, we will be ready to design our Hi-Fi prototype for user testing on at least 5 participants. All work will be summarized via our website. 
-
-**
-
-## **Stakeholders:**
-
-## Guests
-Guests would include parents, prospective students, co-op employers, or general visitors to RIT’s campus.
-
-### Goals: 
-Guests accessing the app would expect to see information about navigating the campus, events, and other pertinent information related to the reason they might be visiting campus. Guests visiting campus might depend on this app to reach their destination in a timely manner (if attending a talk, show, visiting a child, etc.).
-
-### Worries: 
-Guests might be confused about the names of the many pages on the homepage, and be unsure how to find the correct information they are looking for. If guests are on a schedule, they might not know where to look to access the information they need immediately.
-
-### Ideas: 
-Reducing the number of icons on the homepage and categorizing links into relevant groups (e.g., navigation, admissions, events, etc.) could help guests who might be unfamiliar with RIT find what they are looking for quickly. Several of the links are associated with jargon RIT students might know, but guests would not, such as “Reporter” and “The Loop.” Changing these to more general titles might make the purpose of the link more obvious to guests.
-
-### How to involve them and communicate progress & design to them: 
-We can ask individuals who do not attend RIT to provide input on the app, and identify what their concerns might be if they were to use the app while visiting campus.
-
-**
-
-## Students
-### Goals: 
-Students goals when opening this app would be to quickly access information about campus such as shuttle times, dining halls, events, but also general student information that is also available on the RIT website. It’s basically an on the go, mobile, simplified version of the website for students to use.
-
-### Worries: 
-Students may express concern of how accurate or up to date the information is compared to the RIT website. Another worry could be if they clicked on the wrong icon by accident and don’t know how to get back or what they clicked on. It could be stressful when trying to find something more specific, but don’t know what tab to click on, even with the search bar available.
-
-### Ideas: 
-Students could propose a change to the interface to simplify the homepage, reducing the number of icons. They may want the ability to hide or delete apps from the home page, but then still have access to them on the vertical drop down. Students may want better security on the application, like requiring an RIT student login to the RIT Persona. 
-
-### How to involve them and communicate progress & design to them: 
-We can get in touch with students in person on campus, and also reach out to the online via email. We can communicate progress and the new design as we go along with email updates to their RIT e-mails if they prefer.
-
-**
-
-## ITS
-### Goals:
-ITS wants to disseminate information and services to the RIT campus as quickly and easily as possible, maintain the accuracy of the information within the application, and (as the developers and stewards of the app) ensure it entails a quality user experience.
-
-### Worries:
-ITS may be concerned that the app is not up-to-date in terms of accuracy, technology stack, and user experience potential.
-
-### Ideas:
-ITS may want to make the app more usable and easy to navigate so that perhaps more of the functionality is actually exercised and valued. 
-
-### How to involve them and communicate progress & design to them:
-We will reach out to ITS to make them aware of our project and to offer access to the findings and artifacts that we generate throughout it. If they would like to be involved in the redesign as a prominent stakeholder, we'll be happy to deliver prototypes to them to engage in a dialogue and receive feedback & direction.
-
-***
-
-## Team Rules: 
-* Meet 1-2 times a week
-** Wednesdays @ 7:30 PM Google Hangout Meetings
-* Other meeting TBD
-* Setting a deadline before the deadline! 
-* Help each other out! 
-* Check Slack on a daily basis! 
-
-***
-
-# [M2: Contextual Inquiry. pg 125](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/wiki/Milestone-2)
-
-### Action Items
-* update milestone 1
-* conduct contextual inquiry part 1: do interviews ( 8-12 )
-* conduct contextual inquiry part 2:  interpretation session
-* conduct contextual inquiry part 3: affinity diagrams
-## Contextual Inquiry
-The team interviewed 8 users (2 participants each): 1 online student, 2 potential students, 1 parent, and 4 on-campus students. 
-### Affinity Diagram 
-![Affinity Diagram](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Milestone%202%20-%20HCIN%20620.jpg)
-**
-https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Milestone%202%20-%20HCIN%20620.jpg
-
-***
-# M3: Personas, pg 130
-
-***
-## Primary Persona
-[Chad Techman](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Chad%20Techman.png)
-![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Chad%20Techman.png)
-
-## Secondary Personas
-1. [Nala Gritty](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Nala%20Gritty.png)
-![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Nala%20Gritty.png)
-
-2. [Derek Longsteen](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Derek%20Longsteen.png)
-![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Derek%20Longsteen.png)
-
-3. [Amy Lange](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Amy%20Lange.png)
-![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Amy%20Lange.png)
-
-## Anti-persona
-As a group, we found that trying to form a specific anti-persona notion was not very conducive for our redesign; our users all share a specific interest, RIT. The only specific behavior that is antithetical to that shared trait would be a student, potential student, or parent of a student who is not attending or interested in attending RIT; all of these personas have many of the same interests and behaviors as our personas, simply without a focus on RIT. Another potential anti-persona could have been someone who is generally uninterested in colleges, but that is such a broad and nebulous feature that it was difficult to distill any additional behaviors.
-***
-
-## [Dashboards](https://docs.google.com/presentation/d/18LwrbVyk7rV3SDCN7sI7H4kotkOBtqSxUySVKPe72rY/edit?usp=sharing)
-
-Legend of Users:
-1. Chad Techman
-2. Nala Gritty
-3. Derek Longsteen
-4. Amy Lange
-
-### [What They (The Personas) Use Their Phone For](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Phone_Use.png)
-![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Phone_Use.png)
-
-### [(Persona) Perception Of Available Relevant Information](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Perception_Relevant_Info.png)
-![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Perception_Relevant_Info.png)
-
-### [(Expectations Of) External Consistency With Other Apps](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Expecations_Consistency.png)
-![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Expecations_Consistency.png)
-
-### [(Persona) Familiarity With Other Applications](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Application_Familiarity.png)
-![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Application_Familiarity.png)
-
-### [(Persona) Knowledge Of RIT And (The RIT) Website](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/RIT_Knowledge.png)
-![](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/RIT_Knowledge.png)
+![Tickets](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Tickets.jpg)
