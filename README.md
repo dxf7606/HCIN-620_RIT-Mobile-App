@@ -302,3 +302,19 @@ This page allows the user to select, via 3 tabs at the top, which of RIT's socia
 ### [Tickets](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Tickets.jpg)
 This page allows the user to search for tickets by category and date range. The results will be displayed below, and underneath that there will be upcoming events separated into categories, and a calendar to view events. It will not link to internal pages.
 ![Tickets](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Tickets.jpg)
+
+***
+
+# [M5: Hi-Fi Prototype, pg 132](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/wiki/Milestone-5)
+
+## Tech Stack:
+ - Microsoft PowerPoint
+ - Paint
+ - Adobe Photoshop
+ - Everybo (Collaborative Prototyping Tool)
+
+## Approach:
+We continued our process of meeting to decide upon edits and changes, move towards a more consistent design, and then diverged to complete the work. After a few more iterations of this, after our work on the lo-fi prototype, we are ready to present our hi-fi prototype. This represents our understanding of good usability practices and tenets applied to the RIT Mobile Application, with incorporation of the feedback we elicited from the contextual inquiry. 
+We would like to specify that the whole application has not been redesigned. Instead, we focused on the main features that the contextual inquiry evinced as high-use and redesigned those pages and most of the child-pages. Our intention is to provide a view of what how each page is designed through example; we wanted to avoid duplicating extraneous pages that would be largely identical for the sake of putting more thorough work into the design. This does not apply to all cases, of course; in some scenarios, such as the Parking Reminders, we felt that the extra pages better demonstrated the quick navigation through what could be a complex workflow.
+
+## Link: https://app.evrybo.com/share/project/14325/170078/vssT9Yf43VuDiwUeDFfG
