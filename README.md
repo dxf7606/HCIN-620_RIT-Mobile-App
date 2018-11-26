@@ -314,7 +314,7 @@ This page allows the user to search for tickets by category and date range. The 
  - Everybo (Collaborative Prototyping Tool)
 
 ## Approach:
-We continued our process of meeting to decide upon edits and changes, move towards a more consistent design, and then diverged to complete the work. After a few more iterations of this, after our work on the lo-fi prototype, we are ready to present our hi-fi prototype. This represents our understanding of good usability practices and tenets applied to the RIT Mobile Application, with incorporation of the feedback we elicited from the contextual inquiry.
+We continued our process of meeting to decide upon edits and changes, move towards a more consistent design, and then diverged to complete the work. After a few iterations of prototyping, we are ready to present our hi-fi prototype. This represents our understanding of good usability practices and tenets applied to the RIT Mobile Application, with incorporation of the feedback we elicited from the contextual inquiry.
 
 We would like to specify that the whole application has not been redesigned. Instead, we focused on the main features that the contextual inquiry evinced as high-use and redesigned those pages and most of the child-pages. Our intention is to provide a view of what how each page is designed through example; we wanted to avoid duplicating extraneous pages that would be largely identical for the sake of putting more thorough work into the design. This does not apply to all cases, of course; in some scenarios, such as the Parking Reminders, we felt that the extra pages better demonstrated the quick navigation through what could be a complex workflow.
 
